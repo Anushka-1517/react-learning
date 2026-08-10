@@ -103,7 +103,9 @@
     border-bottom: 1px solid var(--border);
   }
 }
-
+h2 {
+  text-align: center;
+}
 #next-steps ul {
   list-style: none;
   padding: 0;
@@ -182,3 +184,4 @@
     border-right-color: var(--border);
   }
 }
+
