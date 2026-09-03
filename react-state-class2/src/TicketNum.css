@@ -1,0 +1,8 @@
+
+.TicketNum {
+    font-size: 3rem;
+}
+.ticket {
+    display: flex;
+    gap: 20px;
+}
